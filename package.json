@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kanadianasura/COMP2156-FRESH.git"
+    "url": "git+https://github.com/Mannan0707-maker/COMP2156-FRESH.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kanadianasura/COMP2156-FRESH/issues"
+    "url": "https://github.com/Mannan0707-maker/COMP2156-FRESH/issues"
   },
-  "homepage": "https://Kanadianasura.github.io/COMP2156-FRESH",
+  "homepage": "https://Mannan0707-maker.github.io/COMP2156-FRESH",
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
